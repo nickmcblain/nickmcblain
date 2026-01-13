@@ -16,7 +16,7 @@
 
 - 📄 **[Job tracker & CV (Resume) reviewer](https://github.com/nickmcblain/cv-review)** - Improve your resume in minutes
 - ✍🏼 **[Personal website](https://nickmc.io)** - Snapshots of the way I'm thinking about the world of work
-- ⚽ **[5-a-side friendly match tracker](https://nickmc.io)** - Organise players, team selection, leaderboard, and payments
+- ⚽ **[5-a-side friendly match tracker](https://github.com/nickmcblain/football)** - Organise players, team selection, leaderboard, and payments
 
 ## GitHub Activity
 
