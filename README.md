@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Nick 👋
 
-<!--
-**nickmcblain/nickmcblain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-Here are some ideas to get you started:
+> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- 📄 **[Job tracker & CV (Resume) reviewer](https://github.com/nickmcblain/cv-review)** - Improve your resume in minutes
+- ✍🏼 **[Personal website](https://nickmc.io)** - Snapshots of the way I'm thinking about the world of work
+- ⚽ **[5-a-side friendly match tracker](https://nickmc.io)** - Organise players, team selection, leaderboard, and payments
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/nickmcblain)
+
+## Reading, watching, and playing
+
+- AI agents
+- Energy
+- Football / Soccer
+- Lacrosse
