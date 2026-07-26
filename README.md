@@ -14,9 +14,10 @@
 
 ## Projects
 
-- 📄 **[Job tracker & CV (Resume) reviewer](https://github.com/nickmcblain/cv-review)** - Improve your resume in minutes
-- ✍🏼 **[Personal website](https://nickmc.io)** - Snapshots of the way I'm thinking about the world of work
+- 📄 **[Job tracker & CV (Resume) reviewer](https://github.com/nickmcblain/cv-review)** - Improve your resume in minutes. Wrapper around 
+- ✍🏼 **[Personal website](https://nickmc.io)** - Snapshots of the way I'm thinking about technology and the tools I am using
 - ⚽ **[5-a-side friendly match tracker](https://github.com/nickmcblain/football)** - Organise players, team selection, leaderboard, and payments
+- 📨 **[Artemis]** - Email & calendar MacOS app built in Rust & Tauri
 
 ## GitHub Activity
 
