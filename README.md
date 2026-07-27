@@ -17,7 +17,8 @@
 - 📄 **[Job tracker & CV (Resume) reviewer](https://github.com/nickmcblain/cv-review)** - Improve your resume in minutes. Wrapper around 
 - ✍🏼 **[Personal website](https://nickmc.io)** - Snapshots of the way I'm thinking about technology and the tools I am using
 - ⚽ **[5-a-side friendly match tracker](https://github.com/nickmcblain/football)** - Organise players, team selection, leaderboard, and payments
-- 📨 **[Artemis]** - Email & calendar MacOS app built in Rust & Tauri
+- 📨 **Artemis** - Email & calendar MacOS app built in Rust & Tauri
+- 💼 **[AI Jobs UK](https://uk-ai.greenergrass.careers/)** - Tracking big 50 AI companies tech and AI roles open to UK residents with CV matching and advice service
 
 ## GitHub Activity
 
