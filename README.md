@@ -10,7 +10,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
+> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 10+ years shipping web apps in fintech, energy, and general all around problem solving.
 
 ## Projects
 
@@ -19,6 +19,7 @@
 - ⚽ **[5-a-side friendly match tracker](https://github.com/nickmcblain/football)** - Organise players, team selection, leaderboard, and payments
 - 📨 **Artemis** - Email & calendar MacOS app built in Rust & Tauri
 - 💼 **[AI Jobs UK](https://uk-ai.greenergrass.careers/)** - Tracking big 50 AI companies tech and AI roles open to UK residents with CV matching and advice service
+- 🏘️ **[Leftstay](https://leftstay.co.uk)** - AI property search assistant and affordability planner.
 
 ## GitHub Activity
 
