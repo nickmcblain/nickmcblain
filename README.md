@@ -20,6 +20,7 @@
 - 📨 **Artemis** - Email & calendar MacOS app built in Rust & Tauri
 - 💼 **[AI Jobs UK](https://uk-ai.greenergrass.careers/)** - Tracking big 50 AI companies tech and AI roles open to UK residents with CV matching and advice service
 - 🏘️ **[Leftstay](https://leftstay.co.uk)** - AI property search assistant and affordability planner.
+- ▼ **[pdfx](https://github.com/nickmcblain/pdfx)** - Local Rust-based PDF compression CLI tool
 
 ## GitHub Activity
 
