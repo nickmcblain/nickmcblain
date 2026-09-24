@@ -25,6 +25,7 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nickmcblain)
+![GitHub Contribution Graph](https://ghchart.rshah.org/nickmc-lumion)
 
 ## Reading, watching, and playing
 
