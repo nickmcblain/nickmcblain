@@ -14,7 +14,8 @@
 
 ## Startups
 
-- ⚡ **[Lumion](https://trylumion.com)** - Helping US energy developers apply for interconnection with AI screening
+- ⚡ **[Lumion](https://trylumion.com)** - Helping US energy developers apply for interconnection - tariff and manual rule extraction, AI document screening, power flow model verification
+- 📝 **[Orton](https://orton.io)** - Where writers become authors - online writing community with games, collaboration, and self-publishing support
 
 ## Projects
 
@@ -25,6 +26,7 @@
 - 🏘️ **[Leftstay](https://leftstay.co.uk)** - AI property search assistant and affordability planner
 - ▼ **[pdfx](https://github.com/nickmcblain/pdfx)** - Local Rust-based PDF compression CLI tool
 - 🍼 **Scrunch** - iOS app helping new parents track baby feeds, nappies, and sleep
+- ⚡ 
 
 ## GitHub Activity
 
