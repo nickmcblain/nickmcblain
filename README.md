@@ -10,7 +10,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Building AI-powered products at speed. All seeded in a problem I am solving for myself or others. After 11+ years shipping web apps in fintech, energy, and general all around problem solving.
+> Building AI-powered products at speed. All seeded in a problem I am solving for myself or to try something new. After 11+ years shipping web apps in fintech, energy, and general all around problem solving.
 
 ## Startups
 
@@ -25,8 +25,8 @@
 - 💼 **[AI Jobs UK](https://uk-ai.greenergrass.careers/)** - Tracking big 50 AI companies tech and AI roles open to UK residents with CV matching and advice service
 - 🏘️ **[Leftstay](https://leftstay.co.uk)** - AI property search assistant and affordability planner
 - ▼ **[pdfx](https://github.com/nickmcblain/pdfx)** - Local Rust-based PDF compression CLI tool
-- 🍼 **Scrunch** - iOS app helping new parents track baby feeds, nappies, and sleep
-- ⚡ 
+- 🍼 **[Scrunch](https://github.com/nickmcblain/baby-steps)** - iOS app helping new parents track baby feeds, nappies, and sleep
+- ⚡ **[Surge](https://github.com/nickmcblain/surge)** - Bloomberg-like terminal for EU power markets
 
 ## GitHub Activity
 
