@@ -10,17 +10,21 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 10+ years shipping web apps in fintech, energy, and general all around problem solving.
+> Building AI-powered products at speed. All seeded in a problem I am solving for myself or others. After 11+ years shipping web apps in fintech, energy, and general all around problem solving.
+
+## Startups
+
+- ⚡ **[Lumion](https://trylumion.com)** - Helping US energy developers apply for interconnection with AI screening
 
 ## Projects
 
-- 📄 **[Job tracker & CV (Resume) reviewer](https://github.com/nickmcblain/cv-review)** - Improve your resume in minutes. Wrapper around 
 - ✍🏼 **[Personal website](https://nickmcblain.github.io/)** - Snapshots of the way I'm thinking about technology and the tools I am using
 - ⚽ **[5-a-side friendly match tracker](https://github.com/nickmcblain/football)** - Organise players, team selection, leaderboard, and payments
-- 📨 **Artemis** - Email & calendar MacOS app built in Rust & Tauri
+- 📨 **Gump** - Native MacOS email client, because Notion Mail has gone
 - 💼 **[AI Jobs UK](https://uk-ai.greenergrass.careers/)** - Tracking big 50 AI companies tech and AI roles open to UK residents with CV matching and advice service
-- 🏘️ **[Leftstay](https://leftstay.co.uk)** - AI property search assistant and affordability planner.
+- 🏘️ **[Leftstay](https://leftstay.co.uk)** - AI property search assistant and affordability planner
 - ▼ **[pdfx](https://github.com/nickmcblain/pdfx)** - Local Rust-based PDF compression CLI tool
+- 🍼 **Scrunch** - iOS app helping new parents track baby feeds, nappies, and sleep
 
 ## GitHub Activity
 
